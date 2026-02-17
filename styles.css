@@ -289,8 +289,7 @@ section {
 
 /* Placeholders using gradients */
 .placeholder-cybernetic {
-    background: linear-gradient(135deg, #1a1a1a 0%, #0d0d0d 100%), 
-                radial-gradient(circle at 30% 20%, rgba(0, 240, 255, 0.2), transparent);
+    background-image: url('images/SoldierSCI-FI/jose-burgos-arauz-central.jpg')
 }
 .placeholder-neon {
     background: linear-gradient(135deg, #1a0033 0%, #0d0d0d 100%), 
@@ -540,3 +539,4 @@ section {
         padding: 2rem;
     }
 }
+
